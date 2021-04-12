@@ -9,17 +9,12 @@
 
 
 ### To maintain a groth mindest: ###
-First Header        | Second Header
-------------        | -------------
-Success of others
-Challenges
-Effort
+The growth mindest      | the fixed mindest
+------------            | -------------
+[Success of others]()   |
+[Challenges]()          |
+[Effort]()              |
 
-######  
--  ##### 2.. 
-  ###### when you faced a problem by groth mindest can be organised and take astep back then try to solve it. 
-- ##### 3.. 
-###### It's all about ask your self and reminder about what you need to go ahead. 
  
  
  [more details about the growth mindest](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) :+1:
