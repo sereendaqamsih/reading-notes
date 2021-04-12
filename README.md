@@ -3,9 +3,8 @@
 - [x]  the groth mindest
 - [ ]  the fixed mindest
 
- # The growth mindest 
+ # [The growth mindest ](https://replit.com/@sereendaqamsih/reading-notes#read04.md)
 
-##  The growth mindset concepts to influence peer interactions. We can choose to be more transparent or more helpful than might be required or than we’re used to. we can success , we can choose to be efort to acheive more and higher goals. ##
 
 
 ### To maintain a groth mindest: ###
