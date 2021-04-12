@@ -10,14 +10,11 @@
 
 ### To maintain a groth mindest: ###
 
-The growth mindest      | the fixed mindest
-------------            | -------------
-[Success of others](https://github.com/sereendaqamsih/reading-notes/blob/main/read01.md)   | stick to what you know
-
-[Challenges](https://github.com/sereendaqamsih/reading-notes/blob/main/read02.md)          | avoid challenges
-
-[Effort](https://github.com/sereendaqamsih/reading-notes/blob/main/read03.md)              | failure is the limit of abilities
-
+The growth mindest| the fixed mindest
+------------| -------------
+[Success of others](https://github.com/sereendaqamsih/reading-notes/blob/main/read01.md)| stick to what you know
+[Challenges](https://github.com/sereendaqamsih/reading-notes/blob/main/read02.m)| avoid challenges
+[Effort](https://github.com/sereendaqamsih/reading-notes/blob/main/read03.md)| failure is the limit of abilities
  
  
  
