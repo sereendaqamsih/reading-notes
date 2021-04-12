@@ -9,12 +9,16 @@
 
 
 ### To maintain a groth mindest: ###
+First Header        | Second Header
+------------        | -------------
+Success of others
+Challenges
+Effort
 
- - ##### 1.Success of others. 
-  ###### It's all about coorperation, when you work as a team to solve any problem. 
--  ##### 2.Challenges. 
+######  
+-  ##### 2.. 
   ###### when you faced a problem by groth mindest can be organised and take astep back then try to solve it. 
-- ##### 3.Effort. 
+- ##### 3.. 
 ###### It's all about ask your self and reminder about what you need to go ahead. 
  
  
