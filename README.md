@@ -1,5 +1,5 @@
 # reading-notes
-![](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
+![](https://miro.medium.com/max/6000/1*6tmkrsxMAYNQST-YjAAAlA.jpeg)
 # The growth mindest #
 
 ##  the growth mindset: concepts to influence peer interactions. We can choose to be more transparent or more helpful than might be required or than we’re used to. we can success , we can choose to be efort to acheive more and higher goals. ##
