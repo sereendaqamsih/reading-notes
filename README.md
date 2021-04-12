@@ -11,9 +11,9 @@
 ### To maintain a groth mindest: ###
 The growth mindest      | the fixed mindest
 ------------            | -------------
-[Success of others]()   |
-[Challenges]()          |
-[Effort]()              |
+[Success of others]()   | stick to what you know
+[Challenges]()          | avoid challenges
+[Effort]()              | failure is the limit of abilities
 
  
  
