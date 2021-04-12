@@ -1,9 +1,10 @@
 # reading-notes
+## This is sereen aldaqamsih , Electrical power engineer.
 ![](https://miro.medium.com/max/6000/1*6tmkrsxMAYNQST-YjAAAlA.jpeg)
 - [x]  the groth mindest
 - [ ]  the fixed mindest
 
- # [The growth mindest ](https://replit.com/@sereendaqamsih/reading-notes#read04.md)
+ # [The growth mindest ](https://sereendaqamsih.github.io/reading-notes/read04)
 
 
 
